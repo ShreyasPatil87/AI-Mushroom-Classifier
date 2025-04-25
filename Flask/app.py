@@ -1,7 +1,8 @@
 # importing libraries
 from flask import Flask, render_template, url_for, request
-from keras.models import load_model
-from tensorflow.keras.preprocessing import image
+from PIL import Image
+from keras.models import load_model # type: ignore
+from tensorflow.keras.preprocessing import image # type: ignore
 import numpy as np
 import os
 

@@ -33,7 +33,7 @@ git clone https://github.com/Rohitmh09/AI-Mushroom-Classification-Analysis.git
 cd AI-Mushroom-Classification-Analysis-master
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 
 ### Using Python venv
