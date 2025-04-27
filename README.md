@@ -8,7 +8,7 @@
 
 ### Home Page:
 <p align="center">
- <img src="https://drive.google.com/file/d/1AQgBezheh1J2tNSK_8qjtANQhCIwhDZC/view?usp=drive_link" width="800" height="auto" alt="Your Image Description">
+ <img src="https://drive.google.com/uc?export=view&id=1AQgBezheh1J2tNSK_8qjtANQhCIwhDZC" width="800" height="auto" alt="Your Image Description">
 </p>
 
 ### Mushroom Classification Result:
